@@ -1,0 +1,1 @@
+`langid` running as server based on official python:2.7.14-alpine3.6
